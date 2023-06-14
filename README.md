@@ -2,4 +2,4 @@
 An Admin Dashboard Webpage
 
 # Overview 
-<img src="./images/overview.jpg" title="hover text">
+<img src="overview.jpg" title="hover text">
